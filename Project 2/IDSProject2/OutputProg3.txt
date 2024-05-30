@@ -1,0 +1,1 @@
+The number of elements whose lookup values are correct are: 6757

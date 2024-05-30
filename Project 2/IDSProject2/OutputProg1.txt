@@ -1,0 +1,2 @@
+The number of elements of A are: 1000
+The number of elements of B are: 9
